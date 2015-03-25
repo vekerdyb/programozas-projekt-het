@@ -1,0 +1,8 @@
+body {
+    display: flex;
+    height: 95vh;
+    width: 95vw;
+    -webkit-justify-content: center;
+    -webkit-align-content: center;
+    -webkit-align-items: center;
+}
